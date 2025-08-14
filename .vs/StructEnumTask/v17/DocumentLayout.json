@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dilsa\\OneDrive\\Masa\u00FCst\u00FC\\VSrep\\StructEnumTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8A234A-2CAD-481B-85DC-D891E706CD7D}|StructEnumTask.csproj|c:\\users\\dilsa\\onedrive\\masa\u00FCst\u00FC\\vsrep\\structenumtask\\utilities\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8A234A-2CAD-481B-85DC-D891E706CD7D}|StructEnumTask.csproj|solutionrelative:utilities\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8A234A-2CAD-481B-85DC-D891E706CD7D}|StructEnumTask.csproj|c:\\users\\dilsa\\onedrive\\masa\u00FCst\u00FC\\vsrep\\structenumtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8A234A-2CAD-481B-85DC-D891E706CD7D}|StructEnumTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\dilsa\\OneDrive\\Masa\u00FCst\u00FC\\VSrep\\StructEnumTask\\Utilities\\Extensions\\Helper.cs",
+              "RelativeDocumentMoniker": "Utilities\\Extensions\\Helper.cs",
+              "ToolTip": "C:\\Users\\dilsa\\OneDrive\\Masa\u00FCst\u00FC\\VSrep\\StructEnumTask\\Utilities\\Extensions\\Helper.cs",
+              "RelativeToolTip": "Utilities\\Extensions\\Helper.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwEMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:45:39.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dilsa\\OneDrive\\Masa\u00FCst\u00FC\\VSrep\\StructEnumTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dilsa\\OneDrive\\Masa\u00FCst\u00FC\\VSrep\\StructEnumTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:41:05.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
